@@ -194,7 +194,7 @@ h6 {
   color: #94FCF6;
 }
 
-@media (min-width: 1120px) {
+@media (min-width: 1150px) {
 	body{
 		max-width: 100%;
 	}
@@ -272,7 +272,9 @@ h6 {
 	}
 
 	.photo{
+		width: 30%;
 		float: left;
+
 	}
 	.photo{
 		padding:0 6px 8px;
@@ -280,6 +282,7 @@ h6 {
 	}
 	.photoContainer{
 		margin-top: 29px;
+		width:100%;
 	}
 
 	#footer #logo{
